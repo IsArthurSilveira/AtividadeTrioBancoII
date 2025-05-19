@@ -11,7 +11,7 @@ Este projeto foi desenvolvido como parte da atividade de Banco de Dados do segun
 
 #### Modelo de Relacionamento (MR)
 
-![Modelo de Relacionamento](/Modelos/MR-EDITORA.png)
+![Modelo de Relacionamento](/Modelos/MR--EDITORA.png)
 
 #### Modelo Entidade-Relacionamento (MER)
 
