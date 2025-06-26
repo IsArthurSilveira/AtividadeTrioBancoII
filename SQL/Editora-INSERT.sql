@@ -128,7 +128,6 @@ INSERT INTO livros (ISBN, titulo, data_publicacao, genero, Npaginas, Descricao, 
 ('9780000000018', 'Didática Moderna', '2022-01-20', 'Educação', 260, 'Técnicas de ensino para o século XXI.', 4, 'https://exemplo.com/capas/didatica.jpg', 'Sim', 57.50, 10.00),
 ('9780000000019', 'Fundamentos da Psicologia', '2019-04-11', 'Psicologia', 400, 'Principais abordagens e teorias.', 5, 'https://exemplo.com/capas/psicologia.jpg', 'Não', 65.00, 12.00),
 ('9780000000020', 'Psicologia do Desenvolvimento', '2020-06-30', 'Psicologia', 390, 'Fases do desenvolvimento humano.', 5, 'https://exemplo.com/capas/desenvolvimento.jpg', 'Sim', 68.90, 11.00);
-
 -- Exemplares
 INSERT INTO Exemplar (NumeroSerie, estado, localizacao, livros_ISBN) VALUES
 (1, 'novo', 'Estante A1', '9780000000011'),
